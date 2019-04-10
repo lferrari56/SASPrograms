@@ -13,4 +13,7 @@
 <ContainObj>SBIP://METASERVER/Shared Data/SASApp - SASDATA(Library)</ContainObj>
 <ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Encrypt &amp; Decrypt/sasdata(Library)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1554880817645" Description="Version A" Name="SAP_Query_Catalog" PackageName="SAP_Query_Catalog.spk" UserID="itaenf@europe" Version="c665c5a">
+<ContainObj>SBIP://METASERVER/SAS on SAP Demo/DEMOECC/Query_catalog(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
