@@ -6,4 +6,11 @@
 <ContainObj>SBIP://METASERVER/Hadoop/Tables/CUSTOMERS_STD(Table)</ContainObj>
 <ContainObj>SBIP://METASERVER/Hadoop/Library/Hadoop(Library)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1554879530334" Description="VersionA" Name="Decript_Encrypt_test" PackageName="Decript_Encrypt_test.spk" UserID="itaenf@europe" Version="ff0794f">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Encrypt &amp; Decrypt/Decrypt(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Encrypt &amp; Decrypt/Encrypt(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Encrypt &amp; Decrypt/ANAG_ENCRYPT(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SASApp - SASDATA(Library)</ContainObj>
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Encrypt &amp; Decrypt/sasdata(Library)</ContainObj>
+</ArchInfo>
 </ROOT>
