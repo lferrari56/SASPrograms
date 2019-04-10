@@ -1,3 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ROOT>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1554879259692" Description="Version a" Name="Embedded_HIVE_SQL" PackageName="Embedded_HIVE_SQL.spk" UserID="itaenf@europe" Version="ab5aba0">
+<ContainObj>SBIP://METASERVER/Hadoop/Jobs/Embedded_HIVE_SQL(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Hadoop/Jobs/CUST_JOIN_VA(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Hadoop/Tables/CUSTOMERS(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Hadoop/Tables/CUSTOMERS_STD(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Hadoop/Library/Hadoop(Library)</ContainObj>
+</ArchInfo>
 </ROOT>
