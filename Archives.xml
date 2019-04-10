@@ -19,4 +19,8 @@
 <ArchInfo Date="1554880885422" Description="Version A" Name="ECC_data_extraction" PackageName="ECC_data_extraction.spk" UserID="itaenf@europe" Version="9260da4">
 <ContainObj>SBIP://METASERVER/SAS on SAP Demo/DEMOECC/ECC_Data_Extraction(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1554881007603" Description="Version B" Name="Embedded_HIVE_SQL" PackageName="Embedded_HIVE_SQL.spk" UserID="itaenf@europe" Version="8885294">
+<ContainObj>SBIP://METASERVER/Hadoop/Jobs/Embedded_HIVE_SQL(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Hadoop/Library/Hadoop(Library)</ContainObj>
+</ArchInfo>
 </ROOT>
