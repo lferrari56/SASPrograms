@@ -23,4 +23,11 @@
 <ContainObj>SBIP://METASERVER/Hadoop/Jobs/Embedded_HIVE_SQL(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Hadoop/Library/Hadoop(Library)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1560927847987" Description="ver 1 demo" Name="demo_cons" PackageName="demo_cons.spk" UserID="sasdemo@itacenf3" Version="32a5f76">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Demo/demo_cons(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/data_all(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/DEMO_RA_TAB1(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/DEMO_RA_TAB2(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SQLServer(Library)</ContainObj>
+</ArchInfo>
 </ROOT>
