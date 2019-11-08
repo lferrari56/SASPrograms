@@ -24,4 +24,10 @@
 <ContainObj>SBIP://METASERVER/Hadoop/Library/Hadoop(Library)</ContainObj>
 </ArchInfo>
 
+<ArchInfo Date="1573206992064" Description="V 1" Name="test_demo" PackageName="test_demo.spk" UserID="sasdemo@itacenf3" Version="f59e76c">
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Demo/Cars(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Demo/CARS(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/User Folders/sasdemo/My Folder/Demo/CARS4(Table)</ContainObj>
+<ContainObj>SBIP://METASERVER/Shared Data/SASApp - SASDATA(Library)</ContainObj>
+</ArchInfo>
 </ROOT>
